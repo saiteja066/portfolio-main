@@ -47,12 +47,12 @@ const WhyHireMe = () => {
                     <div className="flex2">
                         <div className="box">
                             <img src={scholar} alt="" className='why_logo' />
-                            <h4 className='mid_text'>2019</h4>
-                            <p className='main_text_why'>NTSE Scholar</p>
+                            <h4 className='mid_text'>2025</h4>
+                            <p className='main_text_why'>NPTEL AIR 1</p>
                         </div>
                         <div className="box">
                             <img src={project} alt="" className='why_logo' />
-                            <h4 className='mid_text'>6+</h4>
+                            <h4 className='mid_text'>3+</h4>
                             <p className='main_text_why'>Completed Projects</p>
                         </div>
                     </div>
@@ -78,11 +78,11 @@ const WhyHireMe = () => {
                         <div className="box">
                             <img src={codechef} alt="" className='why_logo' />
                             <h4 className='mid_text'>4★</h4>
-                            <p className='main_text_why'>Codechef Rating</p>
+                            <p className='main_text_why'>Coding Rating</p>
                         </div>
                         <div className="box ">
                             <img src={leetcode} alt="" className='why_logo' />
-                            <h4 className='mid_text'>150</h4>
+                            <h4 className='mid_text'>25+</h4>
                             <p className='main_text_why'>LeetCode Problems Solved</p>
                         </div>
                     </div>
