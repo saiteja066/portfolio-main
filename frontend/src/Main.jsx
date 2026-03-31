@@ -1,5 +1,4 @@
 import "./main2.css";
-import codechef from "./images/codechef1.png";
 import github from "./images/github.png";
 import linked_in from "./images/linked_in.png";
 import { motion } from "framer-motion";
